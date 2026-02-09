@@ -1,0 +1,4 @@
+Linux Day 1 - Filesystem 
+
+Im learning some basic linux commands.
+And now im learning Vim

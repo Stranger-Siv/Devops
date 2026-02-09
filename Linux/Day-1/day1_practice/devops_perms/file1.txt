@@ -1,0 +1,34 @@
+Learning Devops Perission
+
+Used nano and vim 
+
+there are 3 types of perms 
+
+- owner
+- group 
+- others
+
+r - read
+w - write
+x - execute
+
+rwx 
+
+- means permission not granted
+
+1. rw- read write and no execute
+2. r-- read and no write and no execute
+
+
+Numeric mapping
+
+Symbol                                  value
+
+ r                                        4
+ w                                        2
+ x                                        1
+
+
+so for rw-       value will be 4+2 = 6
+       r--       value will be 4
+       rwx       value will be 4+2+1 = 7
